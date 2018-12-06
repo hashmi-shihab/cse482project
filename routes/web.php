@@ -18,7 +18,20 @@
 // frontend view
 Route::get('/','FrontController@index'); 
 
+
+
+
+
+
+
+
+
+
+
+
+
 // backend view
 Route::get('/admin','AdminController@index');
 
 Route::get('/dashboard','AdminController@dash');
+Route::post('/admin-dashboard','AdminController@dashboard');
