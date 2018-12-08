@@ -35,3 +35,5 @@ Route::get('/admin','AdminController@index');
 
 Route::get('/dashboard','AdminController@dash');
 Route::post('/admin-dashboard','AdminController@dashboard');
+
+Route::get('/logout','SuperAdminController@logout');
