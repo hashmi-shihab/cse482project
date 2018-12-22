@@ -69,3 +69,9 @@ Route::get('/dashboard','AdminController@dash');
 Route::post('/admin-dashboard','AdminController@dashboard');
 
 Route::get('/logout','SuperAdminController@logout');
+
+
+//catagory related route
+
+Route::get('/add-category','CategoryController@index');
+

@@ -52,6 +52,7 @@
 
 <div class="clearfix"></div>
 </div>
+<div><button value="4" on-click="cart">fhn</button></div>
 <!-- banner -->
 
 <!-- branded powerbanks -->
@@ -67,7 +68,7 @@
                                 <div class="snipcart-item block" >
                                     <div class="snipcart-thumb">
                                         <a href="single.html"><img title=" " alt=" " src="frontEnd/images/aibocn3.jpg" /></a>
-                                        <h4>AIBOCN2310</h4>
+                                        <h4>AIBOCN1</h4>
                                         <p>Battery capacity:10000mAh</p>
                                         <p>Weight:120g</p>
                                         <p>Number of ports:3</p>
@@ -103,7 +104,7 @@
                                 <div class="snipcart-item block" >
                                     <div class="snipcart-thumb">
                                         <a href="single.html"><img title=" " alt=" " src="frontEnd/images/anker2.jpg" /></a>
-                                        <h4>ANKER2341</h4>
+                                        <h4>ANKER1</h4>
                                         <p>Battery capacity:15000mAh</p>
                                         <p>Weight:180g</p>
                                         <p>Number of ports:3</p>
@@ -139,7 +140,7 @@
                                 <div class="snipcart-item block" >
                                     <div class="snipcart-thumb">
                                         <a href="single.html"><img title=" " alt=" " src="frontEnd/images/anker4.jpg" /></a>
-                                        <h4>ANKER3019</h4>
+                                        <h4>ANKER2</h4>
                                         <p>Battery capacity:13500mAh</p>
                                         <p>Weight:160g</p>
                                         <p>Number of ports:3</p>
@@ -175,7 +176,7 @@
                                 <div class="snipcart-item block" >
                                     <div class="snipcart-thumb">
                                         <a href="single.html"><img title=" " alt=" " src="frontEnd/images/GITIHU3.jpg" /></a>
-                                        <h4>GITIHU8920</h4>
+                                        <h4>GITIHU4</h4>
                                         <p>Battery capacity:17000mAh</p>
                                         <p>Weight:200g</p>
                                         <p>Number of ports:3</p>
